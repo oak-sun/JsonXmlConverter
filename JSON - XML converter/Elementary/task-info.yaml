@@ -95,9 +95,16 @@ files:
 - name: src/converter/model/JSON.java
   visible: true
   learner_created: true
+- name: src/converter/UserInput.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/5471#comment
-status: Solved
+status: Failed
 feedback:
-  message: Congratulations!
-  time: Thu, 27 Oct 2022 14:59:20 UTC
-record: -1
+  message: "Exception in test #1\n\njava.io.FileNotFoundException: test.txt (Нет т\
+    акого файла или каталога)\n\tat java.base/java.io.FileInputStream.open0(Native\
+    \ Method)\n\tat java.base/java.io.FileInputStream.open(FileInputStream.java:216)\n\
+    \tat java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:157)\n\
+    \tat java.base/java.io.FileReader.&lt;init&gt;(FileReader.java:75)\n\tat converter.Main.main(Main.java:17)"
+  time: Thu, 27 Oct 2022 17:24:57 UTC
+record: 1

@@ -5,10 +5,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../JSON - XML converter/task/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../JSON - XML converter/task/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../../JSON - XML converter/task/src/generated" isTestSource="false" generated="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.projectlombok:lombok:1.18.24" level="project" />
   </component>
 </module>
