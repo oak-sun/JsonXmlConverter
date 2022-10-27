@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSON_-_XML_converter.iml" filepath="$PROJECT_DIR$/.idea/modules/JSON_-_XML_converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter.JSON_-_XML_converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter.JSON_-_XML_converter-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter.JSON_-_XML_converter-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter.JSON_-_XML_converter-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter.JSON_-_XML_converter-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter.JSON_-_XML_converter-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JSON_-_XML_converter.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JSON_-_XML_converter.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JSON_-_XML_converter.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JSON_-_XML_converter.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JSON_-_XML_converter.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JSON_-_XML_converter.util.test.iml" />
+    </modules>
+  </component>
+</project>
